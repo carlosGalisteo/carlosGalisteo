@@ -1,6 +1,8 @@
 ### Hi I'm Carlos Galisteo 👋
 🔭 I am an architect with a lot of interest in the development of Python code for the development of automations within the Revit API, although also very interested in the use and development of open source within the **Open BIM** framework and the interaction with .ifc files.
 
+[You can find me in Linkedin](www.linkedin.com/in/carlos-galisteo-ortega-bb5833a9)
+
 
 <!--
 **carlosGalisteo/carlosGalisteo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
